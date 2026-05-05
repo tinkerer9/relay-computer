@@ -1,0 +1,8 @@
+"Reference","Qty","Value","Footprint"
+"D1-D4;D9-D16;D21-D24;D29-D36;D41-D44","28","1N4007","Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal"
+"D5-D8;D17-D20;D25-D28;D37-D40;D45-D52;D54-D62","33","LED","LED_THT:LED_D5.0mm"
+"H1-H4","4","MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_Pad"
+"J1","1","Barrel_Jack_Switch","Connector_BarrelJack:BarrelJack_Horizontal"
+"K1-K20","20","SANYOU_SRD_Form_C","Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+"R1-R24;R26-R34","33","220","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+"SW1-SW9","9","SW_SPDT","Toggle_Switch:MTS-102"
