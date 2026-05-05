@@ -10,6 +10,21 @@ The four on the top are the A3-A0 inputs, and the four on the bottom are the B3-
 On the the switch on the middle-right is the additon-subtraction selector.
 Switch it up to add the two numbers, and down to subtract them.
 
+## Bill of materials
+Here is the BOM (bill of materials) for one of the computer, with links.
+Prices are included (shipping not included) but always subject to change.
+
+| Item | Variant | Quantity | Link | Price |
+| :-: | :-: | :-: | :-: | :-: |
+| Relays *(100x)* | SRD-05VDC-SLC | 20 | [AliExpress](https://www.aliexpress.us/item/3256805988664644.html) | $19.27 |
+| Diodes *(100x)* | 1N4007 | 28 | [Amazon](https://www.amazon.com/dp/B0FC2CQF24) | $5.99 |
+| LEDs | *red, 5mm* | 33 | | |
+| Switches *(10x)* | MTS-102 | 9 | [Amazon](https://www.amazon.com/dp/B0799HC3VY) | $7.99 |
+| Barrel Jack | *5.5mm OD* | 1 | | |
+| Resistors | 220&ohm; | 33 | | |
+| PCB *(5x)* | | 1 | *see [how to order](#how-to-order) | $15.80 |
+| **Total** | | **125** | | **$49.05** |
+
 ## How to order
 Head to [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=140&stencilLength=210&plateType=1) and upload the gerber file at [`production.zip`](https://github.com/tinkerer9/relay-computer/raw/refs/heads/main/production.zip).
 
