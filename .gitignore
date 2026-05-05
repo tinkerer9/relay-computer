@@ -1,0 +1,23 @@
+# .DS_Store files
+**/.DS_Store
+
+# KiCad backup files
+**/*-backups/
+**/*-backups/*.zip
+**/*.bak
+**/*.kicad_pcb-bak
+**/*.kicad_sch-bak
+**/*.sch-bak
+
+# local user settings
+**/*.kicad_prl
+**/fp-info-cache
+**/*.lck
+**/*.kicad_user
+
+# KiCad rescue files
+**/*-rescue.lib
+**/*-rescue.dcm
+
+# KiCad history files
+**/.history/
