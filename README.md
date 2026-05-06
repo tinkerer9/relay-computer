@@ -47,5 +47,5 @@ For my order, the 5 PCBs costed **$15.80** and the shipping costed **&approx;$30
 I ended up paying **&approx;$50**.
 These prices are subject to change.
 
-** Questions
+## Questions
 For any questions about this project, feel free to create a [new issue](https://github.com/tinkerer9/relay-computer/issues/new) on this repository.
