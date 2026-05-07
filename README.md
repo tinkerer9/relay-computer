@@ -22,7 +22,7 @@ Prices are included (shipping not included) but always subject to change.
 | Switches *(10x)* | MTS-102 | 9 | [Amazon](https://www.amazon.com/dp/B0799HC3VY) | $7.99 |
 | Barrel Jack | *5.5mm OD* | 1 | | |
 | Resistors | 220&ohm; | 33 | | |
-| PCB *(5x)* | | 1 | *see [how to order](#how-to-order) | $15.80 |
+| PCB *(5x)* | | 1 | *see [how to order](#how-to-order)* | $15.80 |
 | **Total** | | **125** | | **$49.05** |
 
 ## How to order
